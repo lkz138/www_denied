@@ -1,1 +1,1 @@
-Pls look the [LICENCE](LICENCE)
+Pls look the [LICENSE](LICENSE)
