@@ -1,1 +1,1 @@
-# www_deniedDNS
+Pls look the [LICENCE](LICENCE)
